@@ -1,0 +1,28 @@
+{
+  "name": "skybase-tools",
+  "version": "1.0.0",
+  "description": "some tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soekchl/skybase-tools.git"
+  },
+  "keywords": [
+    "skybase",
+    "id server",
+    "send phone code",
+    "skybase-tools"
+  ],
+  "author": "Luke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soekchl/skybase-tools/issues"
+  },
+  "homepage": "https://github.com/soekchl/skybase-tools#readme",
+  "dependencies": {
+    "skybase": "*"
+  }
+}
