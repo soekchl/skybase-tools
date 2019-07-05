@@ -31,7 +31,9 @@ async function outFile(destBaseDir = '.', srcBaseDir = `${__dirname}/node_module
           'id.js': './model/api/skyapi/id.js',
           'phoneMsg.js': './model/api/skyapi/phoneMsg.js'
         }
-      },
+      }
+    },
+    'tools': {
       'phoneCode.js': './tools/phoneCode.js'
     }
   }
